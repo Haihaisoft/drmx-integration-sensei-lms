@@ -1,7 +1,7 @@
-=== Plugin Name ===
+=== DRM-X 4.0 System For Sensei LMS ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://www.haihaisoft.com/
-Tags: comments, spam
+Tags: Sensei LMS, cms protection, lms protection, video protection, education, course protection, DRM, media protection, copyright protection, Preventing screen recording
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -12,30 +12,17 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+Sensei LMS is a powerful learning management system (LMS) for managing your online courses, but the problem of video course piracy seriously infringes on the rights of content providers, but the problem of video course piracy seriously infringes on the rights of content providers. With DRM-X 4.0 digital copy protection system, it can effectively protect your video and PDF content.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+DRM-X 4.0 system is equipped with:
+*   "Smart Screen Recording Prevention", which effectively prevents video content piracy and ripping behavior. 
+*   "Hardware Binding" function to prevent students from sharing their learning accounts.
+*   "Dynamic Watermark" function for displaying students' identity information.
 
-A few notes about the sections above:
+Plug-in download URL:
+https://github.com/Haihaisoft/drmx-integration-sensei-lms
 
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
-*   Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for
-stable.
-
-    Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
-if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
-for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
-is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
-your in-development version, without having that information incorrectly disclosed about the current stable version
-that lacks those changes -- as long as the trunk's `readme.txt` points to the correct stable tag.
-
-    If no stable tag is provided, it is assumed that trunk is stable, but you should specify "trunk" if that's where
-you put the stable version, in order to eliminate any doubt.
+Any suggestions for this Plugin? Send us via email: service@haihaisoft.com
 
 == Installation ==
 
